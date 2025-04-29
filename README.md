@@ -69,6 +69,14 @@ python test.py
 * This code is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 * This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
 ### 4. Results and Trained Models
+```
+| Dataset      | mIoU  | DSC   | Pre   | Re    | Model Link     |
+|--------------|-------|-------|--------|--------|----------------|
+| SIRST        | 80.33 | 89.09 | 89.05 | 89.13 | [Download](#)   |
+| IRSTD-1k     | 69.28 | 81.85 | 79.82 | 83.99 | —              |
+| NUDT-SIRST   | 90.47 | 95.00 | 96.20 | 93.82 | —              |
+
+```
 
 # Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
