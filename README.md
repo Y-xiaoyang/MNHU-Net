@@ -53,6 +53,15 @@ methods (MNHU-E, MNHU-D, and MNHU) on three public datasets (e.g. SIRST, IRSTD-1
 │    │    │    ├── train.txt
 │    │    │    ├── test.txt
 ```
+### 2. Train.
+```bash
+python train.py 
+```
+### 3. Test.
+```bash
+python test.py 
+```
+
 # If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
 
  
