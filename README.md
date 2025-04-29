@@ -35,9 +35,9 @@ methods (MNHU-E, MNHU-D, and MNHU) on three public datasets (e.g. SIRST, IRSTD-1
 │    │    │    ├── 000001.png
 │    │    │    ├── 000002.png
 │    │    │    ├── ...
-│    │    ├── img_idx
-│    │    │    ├── train_NUDT-SIRST.txt
-│    │    │    ├── test_NUDT-SIRST.txt
+│    │    ├── 80_20
+│    │    │    ├── train.txt
+│    │    │    ├── test.txt
 │    ├── ...
 │    ├── ...
 │    ├── NUAA-SIRST
@@ -49,9 +49,9 @@ methods (MNHU-E, MNHU-D, and MNHU) on three public datasets (e.g. SIRST, IRSTD-1
 │    │    │    ├── Misc_1.png
 │    │    │    ├── Misc_2.png
 │    │    │    ├── ...
-│    │    ├── img_idx
-│    │    │    ├── train_SIRST3.txt
-│    │    │    ├── test_SIRST3.txt
+│    │    ├── 80_20
+│    │    │    ├── train.txt
+│    │    │    ├── test.txt
 ```
 # If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
 
