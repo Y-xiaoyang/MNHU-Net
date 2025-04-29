@@ -68,6 +68,8 @@ python test.py
 * This code is highly borrowed from [AMFU](https://github.com/cwon789/AMFU-net). Thanks to Won Young Chung.
 * This code is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 * This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
+### 4. Results and Trained Models
+
 # Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 ```text
