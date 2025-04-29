@@ -1,5 +1,6 @@
 # MNHU-Net: A Multi-Scale Feature Fusion and Nested Structure-Based High-Order U-Net for Infrared Small Target Detection [[📄 Paper Link]](https://ieeexplore.ieee.org/document/10979417)
 ### Xiaoyang Yuan, Chunling Yang, Yu Chen, Yan Zhang, IEEE Transactions on Aerospace and Electronic Systems 2025. 
+![High-order Unet and MNHU](https://github.com/Y-xiaoyang/MNHU-Net/blob/main/Structure.png)
 # If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
 # Introduction
 We present a multi-scale feature fusion and nested structurebased High-order UNet (MNHU) for IRSTD. We evaluate the proposed high-order UNet-based
@@ -67,6 +68,16 @@ python test.py
 * This code is highly borrowed from [AMFU](https://github.com/cwon789/AMFU-net). Thanks to Won Young Chung.
 * This code is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 * This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
+### 4. Results and Trained Models
+```
+| Dataset      | mIoU  | DSC   | Pre   | Re    | Model Link     |
+|--------------|-------|-------|--------|--------|----------------|
+| SIRST        | 80.33 | 89.09 | 89.05 | 89.13 | [Download](#)   |
+| IRSTD-1k     | 69.28 | 81.85 | 79.82 | 83.99 | —              |
+| NUDT-SIRST   | 90.47 | 95.00 | 96.20 | 93.82 | —              |
+
+```
+
 # Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 ```text
