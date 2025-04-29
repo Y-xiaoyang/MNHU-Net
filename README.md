@@ -67,7 +67,20 @@ python test.py
 * This code is highly borrowed from [AMFU](https://github.com/cwon789/AMFU-net). Thanks to Won Young Chung.
 * This code is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 * This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
-
-
-
+# Citation
+If you find the code useful, please consider citing our paper using the following BibTeX entry.
+```text
+@ARTICLE{10979417,
+  author={Yuan, Xiaoyang and Yang, Chunling and Chen, Yu and Zhang, Yan},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={MNHU-Net: A Multi-Scale Feature Fusion and Nested Structure-Based High-Order U-Net for Infrared Small Target Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={Feature extraction;Data mining;Correlation;Clutter;Object detection;Encoding;Calibration;Attention mechanisms;Robustness;Complexity theory},
+  doi={10.1109/TAES.2025.3564932}}
+```
+# Contact
+Welcome to raise issues or email to yuanxiaoyang1998@outlook.com for any question regarding our MNHU-Net.
  
